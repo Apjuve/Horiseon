@@ -11,13 +11,15 @@ SOCIAL MEDIA MARKETING to determine which platforms are suited to your brand and
 
 ## Credits 
 
+Abimael Ponce
+
 ## Technologies
 
-*HTML
-*CSS
+1.HTML
+2.CSS
 
 ## Questions
-
+[Email] (mailto:abiponce.ap@gmail.com)
 
 ## Link
 
