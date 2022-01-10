@@ -7,7 +7,7 @@ SOCIAL MEDIA MARKETING to determine which platforms are suited to your brand and
 
 ## Table of contents 
 
-![screenshot](Develop/assets/images/screenshot.png)
+![screenshot](assets/images/screenshot.png)
 
 ## Credits 
 
