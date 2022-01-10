@@ -7,7 +7,7 @@ SOCIAL MEDIA MARKETING to determine which platforms are suited to your brand and
 
 ## Table of contents 
 
-
+![screenshot](Develop/assets/images/screenshot.png)
 
 ## Credits 
 
@@ -19,7 +19,7 @@ Abimael Ponce
 2.CSS
 
 ## Questions
-[Email](mailto:zabiponce.ap@gmail.com)
+[Email](mailto:abiponce.ap@gmail.com)
 
 ## Link
 
